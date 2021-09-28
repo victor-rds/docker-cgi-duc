@@ -22,7 +22,7 @@ jobs:
           images: |
             victorrds/cgi-duc
           flavor: |
-            latest=auto
+            latest=true
           tags: |
             type=pep440,pattern={{version}}
             type=pep440,pattern={{major}}.{{minor}}
