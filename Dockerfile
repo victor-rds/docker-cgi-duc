@@ -1,4 +1,4 @@
-FROM debian:11.5-slim
+FROM debian:11.6-slim
 
 LABEL maintainer="Victor R. Santos <victor-rds@users.noreply.github.com>"
 
